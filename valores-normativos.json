@@ -1,0 +1,19 @@
+{
+  "Esquema": 1,
+  "Versao": 1,
+  "Data": "2026-10-08",
+  "Descricao": "Valores iniciais do programa (NBR 6118:2023, NBR 6120:2019 e NBR 8681:2003).",
+  "PesoEspecificoConcreto": 25,
+  "CargaPermanenteAdicional": 1.0,
+  "CargaVariavel": 1.5,
+  "GamaG": 1.4,
+  "GamaQ": 1.4,
+  "Psi2": 0.3,
+  "DivisorLimiteFlecha": 250,
+  "CobrimentoMm": 30,
+  "EspessuraMinimaPisoCm": 8,
+  "EspessuraMinimaCoberturaCm": 7,
+  "EspessuraMinimaBalancoCm": 10,
+  "EspessuraMinimaGaragemLeveCm": 10,
+  "EspessuraMinimaGaragemPesadaCm": 12
+}
